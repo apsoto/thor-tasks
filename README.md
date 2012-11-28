@@ -4,7 +4,7 @@
 Tasks for [thor](https://github.com/wycats/thor).
 
 ## Installation
-    thor install https://github.com/apsoto/thor-tasks/pg.thor
+    thor install https://raw.github.com/apsoto/thor-tasks/master/pg.thor
 
 ## Tasks
 
